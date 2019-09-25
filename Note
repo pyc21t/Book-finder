@@ -1,0 +1,8 @@
+this program is a python web scraping sample.
+
+i used "wikipedia" to get authors name.
+and i used "goodreads" website to get selected author books.
+
+a few bugs expected:
+> selected author name not found in goodreads.com
+> showing some unwanted details in result.
